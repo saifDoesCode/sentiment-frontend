@@ -8,7 +8,7 @@ API_URL = "https://sentiment-app-86qk.onrender.com/predict"
 
 
 # --- User Interface ---
-st.title("💬 Message Sentiment Analyzer")
+st.title("💬 ToneTracker")
 st.write(
     "Enter a message (like a text, tweet, or chat) to see if its tone is "
     "**Positive** or **Negative**."
